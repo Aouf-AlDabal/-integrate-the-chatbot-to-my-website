@@ -5,4 +5,4 @@
 <img src ="img/imagecontrolpanelleft.png" >
 <img src ="img/imagecontrolpanelright.png" >
 <img src ="img/imagecontropanelforward.png">
-<img src ="img/auto_control">
+<img src ="img/auto_control.png">
